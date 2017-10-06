@@ -15,10 +15,10 @@ public class SpringCloudApplication {
 
 
 /**
- * ----
+ * +++++
  * 服务发现（Eureka）
  * 断路器（Hystrix）
  * 智能路有（Zuul）
  * 客户端负载均衡（Ribbon）
- * ----
+ * ++++++
  * */
